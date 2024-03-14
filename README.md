@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alchammata
 - 👀 I’m interested in basically anything that involves Computers, Data Science, and AI.
-- 🌱 I’m currently learning about computer system and circuit logics.
-- 💞️ I’m looking to collaborate on fun projects that involve C or Python!
+- 💞️ I’m looking to collaborate on fun projects that involve C, Java, or Python!
 - 📫 Reach me at my email, alchammataa@gmail.com
 
 <!---
